@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Weather" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/sky_blue</item>
+        <item name="android:colorPrimaryDark">@color/sky_blue</item>
+        <item name="android:statusBarColor">@color/sky_blue</item>
+        <item name="android:windowBackground">@color/gray</item>
+    </style>
+    system_accent1_200
+</resources>
